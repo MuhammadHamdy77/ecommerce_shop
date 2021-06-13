@@ -1,6 +1,6 @@
 
 @extends('layouts.master')
-@section('pageFAQ')
+@section('content')
 
 
 <div class="page-body">
@@ -12,9 +12,9 @@
                 </div>
                 <div class="col-6">
                   <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="http://localhost/NPRO/Laravel/Cuba/public" data-bs-original-title="" title=""> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></a></li>
+                    <li class="breadcrumb-item"><a href="#" data-bs-original-title="" title=""> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></a></li>
                     <li class="breadcrumb-item">Apps</li>
-<li class="breadcrumb-item active">FAQ</li>
+					<li class="breadcrumb-item active">FAQ</li>
                   </ol>
                 </div>
               </div>
@@ -331,7 +331,7 @@
 					<div class="col-xl-3 xl-50 col-md-6">
 						<div class="card features-faq product-box">
 							<div class="faq-image product-img">
-								<img class="img-fluid" src="http://localhost/NPRO/Laravel/Cuba/public/assets/images/faq/1.jpg" alt="">
+								<img class="img-fluid" src="{{asset('assets/images/faq/1.jpg')}}" alt="">
 								<div class="product-hover">
 									<ul>
 										<li><i class="icon-link"></i></li>
@@ -349,7 +349,7 @@
 					<div class="col-xl-3 xl-50 col-md-6">
 						<div class="card features-faq product-box">
 							<div class="faq-image product-img">
-								<img class="img-fluid" src="http://localhost/NPRO/Laravel/Cuba/public/assets/images/faq/2.jpg" alt="">
+								<img class="img-fluid" src="{{asset('assets/images/faq/2.jpg')}}" alt="">
 								<div class="product-hover">
 									<ul>
 										<li><i class="icon-link"></i></li>
@@ -367,7 +367,7 @@
 					<div class="col-xl-3 xl-50 col-md-6">
 						<div class="card features-faq product-box">
 							<div class="faq-image product-img">
-								<img class="img-fluid" src="http://localhost/NPRO/Laravel/Cuba/public/assets/images/faq/3.jpg" alt="">
+								<img class="img-fluid" src="{{asset('assets/images/faq/3.jpg')}}" alt="">
 								<div class="product-hover">
 									<ul>
 										<li><i class="icon-link"></i></li>
@@ -385,7 +385,7 @@
 					<div class="col-xl-3 xl-50 col-md-6">
 						<div class="card features-faq product-box">
 							<div class="faq-image product-img">
-								<img class="img-fluid" src="http://localhost/NPRO/Laravel/Cuba/public/assets/images/faq/4.jpg" alt="">
+								<img class="img-fluid" src="{{asset('assets/images/faq/4.jpg')}}" alt="">
 								<div class="product-hover">
 									<ul>
 										<li><i class="icon-link"></i></li>
@@ -542,7 +542,7 @@
 	</div>
 </div>
           <!-- Container-fluid Ends-->
-        </div>
+</div>
 
     
 @endsection

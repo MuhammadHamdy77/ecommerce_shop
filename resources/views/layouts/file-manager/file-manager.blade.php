@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 
-@section('contentFileManger')
+@section('content')
 <div class="page-body">
 <div class="container-fluid">        
     <div class="page-title">
@@ -68,7 +68,7 @@
                     <h5>FREE</h5>
                     <p> 100 GB Space</p>
                     <div class="btn btn-outline-primary btn-xs">Selected</div>
-                    <img class="bg-img" src="http://localhost/NPRO/Laravel/Cuba/public/assets/images/dashboard/folder.png" alt="">
+                    <img class="bg-img" src="{{asset('assetsimages/dashboard/folder.png')}}" alt="">
                   </div>
                 </li>
                 <li>
@@ -77,7 +77,7 @@
                     <h5>$5/month</h5>
                     <p> 200 GB Space</p>
                     <div class="btn btn-outline-primary btn-xs">Contact Us</div>
-                    <img class="bg-img" src="http://localhost/NPRO/Laravel/Cuba/public/assets/images/dashboard/folder1.png" alt="">
+                    <img class="bg-img" src="{{asset('assetsimages/dashboard/folder1.png')}}" alt="">
                   </div>
                 </li>
               </ul>
