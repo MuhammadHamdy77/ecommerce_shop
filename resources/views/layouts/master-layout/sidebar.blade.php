@@ -213,13 +213,13 @@
 								</a>
 								<ul class="nav-sub-childmenu submenu-content" style="display: none;;">
 		                              	<li><a href="#" class="" data-bs-original-title="" title="">Basic Init</a></li>
-		                              	<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-advance" class="" data-bs-original-title="" title="">Advance Init</a></li>
-		                              	<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-styling" class="" data-bs-original-title="" title="">Styling</a></li>
-		                              	<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ajax" class="" data-bs-original-title="" title="">AJAX</a></li>
-		                              	<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-server-side" class="" data-bs-original-title="" title="">Server Side</a></li>
-		                              	<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-plugin" class="" data-bs-original-title="" title="">Plug-in</a></li>
-		                              	<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-api" class="" data-bs-original-title="" title="">API</a></li>
-		                              	<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-data-source" class="" data-bs-original-title="" title="">Data Sources</a></li>
+		                              	<li><a href="#" class="" data-bs-original-title="" title="">Advance Init</a></li>
+		                              	<li><a href="#" class="" data-bs-original-title="" title="">Styling</a></li>
+		                              	<li><a href="#" class="" data-bs-original-title="" title="">AJAX</a></li>
+		                              	<li><a href="#" class="" data-bs-original-title="" title="">Server Side</a></li>
+		                              	<li><a href="#" class="" data-bs-original-title="" title="">Plug-in</a></li>
+		                              	<li><a href="#" class="" data-bs-original-title="" title="">API</a></li>
+		                              	<li><a href="#" class="" data-bs-original-title="" title="">Data Sources</a></li>
 		                        </ul>
 							</li>
 							<li>
@@ -227,18 +227,18 @@
 									<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 								</a>
 								<ul class="nav-sub-childmenu submenu-content" style="display: none;;">
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-autofill" class="" data-bs-original-title="" title="">Auto Fill</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-basic-button" class="" data-bs-original-title="" title="">Basic Button</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-col-reorder" class="" data-bs-original-title="" title="">Column Reorder</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-fixed-header" class="" data-bs-original-title="" title="">Fixed Header</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-html-5-data-export" class="" data-bs-original-title="" title="">HTML 5 Export</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-key-table" class="" data-bs-original-title="" title="">Key Table</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-responsive" class="" data-bs-original-title="" title="">Responsive</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-row-reorder" class="" data-bs-original-title="" title="">Row Reorder</a></li>
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/datatable-ext-scroller" class="" data-bs-original-title="" title="">Scroller</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Auto Fill</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Basic Button</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Column Reorder</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Fixed Header</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">HTML 5 Export</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Key Table</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Responsive</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Row Reorder</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Scroller</a></li>
 								</ul>
 							</li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/tables/jsgrid-table" class="" data-bs-original-title="" title="">Js Grid Table </a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Js Grid Table </a></li>
 						</ul>
 					</li>
 					<li class="sidebar-main-title">
@@ -252,31 +252,31 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/state-color" class="" data-bs-original-title="" title="">State color</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/typography" class="" data-bs-original-title="" title="">Typography</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/avatars" class="" data-bs-original-title="" title="">Avatars</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/helper-classes" class="" data-bs-original-title="" title="">helper classes</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/grid" class="" data-bs-original-title="" title="">Grid</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/tag-pills" class="" data-bs-original-title="" title="">Tag &amp; pills</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/progress-bar" class="" data-bs-original-title="" title="">Progress</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/modal" class="" data-bs-original-title="" title="">Modal</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/alert" class="" data-bs-original-title="" title="">Alert</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/popover" class="" data-bs-original-title="" title="">Popover</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/tooltip" class="" data-bs-original-title="" title="">Tooltip</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/loader" class="" data-bs-original-title="" title="">Spinners</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/dropdown" class="" data-bs-original-title="" title="">Dropdown</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/accordion" class="" data-bs-original-title="" title="">Accordion</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">State color</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Typography</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Avatars</a></li>
+							<li><a href="#"	class="" data-bs-original-title="" title="">helper classes</a></li>
+							<li><a href="#"	class="" data-bs-original-title="" title="">Grid</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Tag &amp; pills</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Progress</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Modal</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Alert</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Popover</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Tooltip</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Spinners</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Dropdown</a></li>
+							<li><a href="#" 	class="" data-bs-original-title="" title="">Accordion</a></li>
 							<li>
 								<a class="submenu-title " href="#" data-bs-original-title="" title="">Tabs
 									<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 								</a>
 								<ul class="nav-sub-childmenu submenu-content" style="display: none;;">
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/tab-bootstrap" class="" data-bs-original-title="" title="">Bootstrap Tabs</a></li>
-                           			<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/tab-material" class="" data-bs-original-title="" title="">Line Tabs</a></li>
+									<li><a href="#" class="" data-bs-original-title="" title="">Bootstrap Tabs</a></li>
+                           			<li><a href="#" class="" data-bs-original-title="" title="">Line Tabs</a></li>
 								</ul>
 							</li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/box-shadow" class="" data-bs-original-title="" title="">Shadow</a></li>
-                     		<li><a href="http://localhost/NPRO/Laravel/Cuba/public/ui-kits/list" class="" data-bs-original-title="" title="">Lists</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Shadow</a></li>
+                     		<li><a href="#" class="" data-bs-original-title="" title="">Lists</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -284,32 +284,32 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/scrollable" class="" data-bs-original-title="" title="">Scrollable</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/tree" class="" data-bs-original-title="" title="">Tree view</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/bootstrap-notify" class="" data-bs-original-title="" title="">Bootstrap Notify</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/rating" class="" data-bs-original-title="" title="">Rating</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/dropzone" class="" data-bs-original-title="" title="">dropzone</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/tour" class="" data-bs-original-title="" title="">Tour</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/sweet-alert2" class="" data-bs-original-title="" title="">SweetAlert2</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/modal-animated" class="" data-bs-original-title="" title="">Animated Modal</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/owl-carousel" class="" data-bs-original-title="" title="">Owl Carousel</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/ribbons" class="" data-bs-original-title="" title="">Ribbons</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/pagination" class="" data-bs-original-title="" title="">Pagination</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/breadcrumb" class="" data-bs-original-title="" title="">Breadcrumb</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/range-slider" class="" data-bs-original-title="" title="">Range Slider</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/image-cropper" class="" data-bs-original-title="" title="">Image cropper</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/sticky" class="" data-bs-original-title="" title="">Sticky</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/basic-card" class="" data-bs-original-title="" title="">Basic Card</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/creative-card" class="" data-bs-original-title="" title="">Creative Card</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/tabbed-card" class="" data-bs-original-title="" title="">Tabbed Card</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/dragable-card" class="" data-bs-original-title="" title="">Draggable Card</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Scrollable</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Tree view</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Bootstrap Notify</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Rating</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">dropzone</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Tour</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">SweetAlert2</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Animated Modal</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Owl Carousel</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Ribbons</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Pagination</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Breadcrumb</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Range Slider</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Image cropper</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Sticky</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Basic Card</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Creative Card</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Tabbed Card</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Draggable Card</a></li>
 							<li>
 								<a class="submenu-title " href="#" data-bs-original-title="" title="">Timeline
 									<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 								</a>
 								<ul class="nav-sub-childmenu submenu-content" style="display: none;;">
-									<li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/timeline-v-1" class="" data-bs-original-title="" title="">Timeline 1</a></li>
-                              		<li><a href="http://localhost/NPRO/Laravel/Cuba/public/bonus-ui/timeline-v-2" class="" data-bs-original-title="" title="">Timeline 2</a></li>
+									<li><a href="" class="" data-bs-original-title="" title="">Timeline 1</a></li>
+                              		<li><a href="#" class="" data-bs-original-title="" title="">Timeline 2</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -319,20 +319,20 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/builders/form-builder-1" class="" data-bs-original-title="" title=""> Form Builder 1</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/builders/form-builder-2" class="" data-bs-original-title="" title=""> Form Builder 2</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/builders/pagebuild" class="" data-bs-original-title="" title="">Page Builder</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/builders/button-builder" class="" data-bs-original-title="" title="">Button Builder</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title=""> Form Builder 1</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title=""> Form Builder 2</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Page Builder</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Button Builder</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
 						<a class="sidebar-link sidebar-title " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-cloud-drizzle"><line x1="8" y1="19" x2="8" y2="21"></line><line x1="8" y1="13" x2="8" y2="15"></line><line x1="16" y1="19" x2="16" y2="21"></line><line x1="16" y1="13" x2="16" y2="15"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="12" y1="15" x2="12" y2="17"></line><path d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"></path></svg><span>Animation</span></a>
 						<ul class="sidebar-submenu" style="display: none;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/animation/animate" class="" data-bs-original-title="" title="">Animate</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/animation/scroll-reval" class="" data-bs-original-title="" title="">Scroll Reveal</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/animation/aos" class="" data-bs-original-title="" title="">AOS animation</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/animation/tilt" class="" data-bs-original-title="" title="">Tilt Animation</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/animation/wow" class="" data-bs-original-title="" title="">Wow Animation</a></li>
+							<li><a href="" class="" data-bs-original-title="" title="">Animate</a></li>
+	                        <li><a href="" class="" data-bs-original-title="" title="">Scroll Reveal</a></li>
+	                        <li><a href="" class="" data-bs-original-title="" title="">AOS animation</a></li>
+	                        <li><a href="" class="" data-bs-original-title="" title="">Tilt Animation</a></li>
+	                        <li><a href="" class="" data-bs-original-title="" title="">Wow Animation</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -340,17 +340,17 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/flag-icon" class="" data-bs-original-title="" title="">Flag icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/font-awesome" class="" data-bs-original-title="" title="">Fontawesome Icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/ico-icon" class="" data-bs-original-title="" title="">Ico Icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/themify-icon" class="" data-bs-original-title="" title="">Thimify Icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/feather-icon" class="" data-bs-original-title="" title="">Feather icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/whether-icon" class="" data-bs-original-title="" title="">Whether Icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/simple-line-icon" class="" data-bs-original-title="" title="">Simple line Icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/material-design-icon" class="" data-bs-original-title="" title="">Material Design Icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/pe7-icon" class="" data-bs-original-title="" title="">pe7 icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/typicons-icon" class="" data-bs-original-title="" title="">Typicons icon</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/icons/ionic-icon" class="" data-bs-original-title="" title="">Ionic icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Flag icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Fontawesome Icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Ico Icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Thimify Icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Feather icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Whether Icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Simple line Icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Material Design Icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">pe7 icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Typicons icon</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Ionic icon</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -358,11 +358,11 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/buttons/buttons" class="" data-bs-original-title="" title="">Default Style</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/buttons/buttons-flat" class="" data-bs-original-title="" title="">Flat Style</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/buttons/buttons-edge" class="" data-bs-original-title="" title="">Edge Style</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/buttons/raised-button" class="" data-bs-original-title="" title="">Raised Style</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/buttons/button-group" class="" data-bs-original-title="" title="">Button Group</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Default Style</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Flat Style</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Edge Style</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Raised Style</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Button Group</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -370,16 +370,16 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/echarts" class="" data-bs-original-title="" title="">Echarts</a></li>
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chart-apex" class="" data-bs-original-title="" title="">Apex Chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chart-google" class="" data-bs-original-title="" title="">Google Chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chart-sparkline" class="" data-bs-original-title="" title="">Sparkline chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chart-flot" class="" data-bs-original-title="" title="">Flot Chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chart-knob" class="" data-bs-original-title="" title="">Knob Chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chart-morris" class="" data-bs-original-title="" title="">Morris Chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chartjs" class="" data-bs-original-title="" title="">Chatjs Chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chartist" class="" data-bs-original-title="" title="">Chartist Chart</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/charts/chart-peity" class="" data-bs-original-title="" title="">Peity Chart </a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Echarts</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Apex Chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Google Chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Sparkline chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Flot Chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Knob Chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Morris Chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Chatjs Chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Chartist Chart</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Peity Chart </a></li>
 						</ul>
 					</li>
 					<li class="sidebar-main-title">
@@ -388,9 +388,9 @@
                      		<p>All neccesory pages added</p>
 						</div>
 					</li>
-					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="http://localhost/NPRO/Laravel/Cuba/public/landing-page" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-cast"><path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path><line x1="2" y1="20" x2="2" y2="20"></line></svg><span>Landing Page</span></a></li>
-					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="http://localhost/NPRO/Laravel/Cuba/public/sample-page" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg><span>Sample page</span></a></li>
-					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="http://localhost/NPRO/Laravel/Cuba/public/internationalization" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-globe"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg><span>Internationalization</span></a></li>
+					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-cast"><path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path><line x1="2" y1="20" x2="2" y2="20"></line></svg><span>Landing Page</span></a></li>
+					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg><span>Sample page</span></a></li>
+					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-globe"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg><span>Internationalization</span></a></li>
 
 					<li class="mega-menu">
 						<a class="sidebar-link sidebar-title " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-layers"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg><span>Others</span>
@@ -406,12 +406,12 @@
 												<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 											</div>
 											<ul class="submenu-content opensubmegamenu" style="display: none;">
-												<li><a href="http://localhost/NPRO/Laravel/Cuba/public/others/400" class="" data-bs-original-title="" title="">Error 400</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/others/401" class="" data-bs-original-title="" title="">Error 401</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/others/403" class="" data-bs-original-title="" title="">Error 403</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/others/404" class="" data-bs-original-title="" title="">Error 404</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/others/500" class="" data-bs-original-title="" title="">Error 500</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/others/503" class="" data-bs-original-title="" title="">Error 503</a></li>
+												<li><a href="#" class="" data-bs-original-title="" title="">Error 400</a></li>
+		                                       	<li><a href="#" class="" data-bs-original-title="" title="">Error 401</a></li>
+		                                       	<li><a href="#" class="" data-bs-original-title="" title="">Error 403</a></li>
+		                                       	<li><a href="#" class="" data-bs-original-title="" title="">Error 404</a></li>
+		                                       	<li><a href="#" class="" data-bs-original-title="" title="">Error 500</a></li>
+		                                       	<li><a href="#" class="" data-bs-original-title="" title="">Error 503</a></li>
 											</ul>
 										</div>
 									</div>
@@ -422,20 +422,20 @@
 												<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 											</div>
 											<ul class="submenu-content opensubmegamenu" style="display: none;">
-												<li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/login" target="_blank" data-bs-original-title="" title="">Login Simple</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/login-one" target="_blank" data-bs-original-title="" title="">Login with bg image</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/login-two" target="_blank" data-bs-original-title="" title="">Login with image two </a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/login-bs-validation" target="_blank" data-bs-original-title="" title="">Login With validation</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/login-bs-tt-validation" target="_blank" data-bs-original-title="" title="">Login with tooltip</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/login-sa-validation" target="_blank" data-bs-original-title="" title="">Login with sweetalert</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/sign-up" target="_blank" data-bs-original-title="" title="">Register Simple</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/sign-up-one" target="_blank" data-bs-original-title="" title="">Register with Bg Image </a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/sign-up-two" target="_blank" data-bs-original-title="" title="">Register with Bg video</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/sign-up-wizard" target="_blank" data-bs-original-title="" title="">Register wizard</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/unlock" data-bs-original-title="" title="">Unlock User</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/forget-password" data-bs-original-title="" title="">Forget Password</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/reset-password" data-bs-original-title="" title="">Reset Password</a></li>
-			                                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/authentication/maintenance" data-bs-original-title="" title="">Maintenance</a></li>
+												<li><a href="#" target="_blank" data-bs-original-title="" title="">Login Simple</a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Login with bg image</a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Login with image two </a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Login With validation</a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Login with tooltip</a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Login with sweetalert</a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Register Simple</a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Register with Bg Image </a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Register with Bg video</a></li>
+			                                    <li><a href="#" target="_blank" data-bs-original-title="" title="">Register wizard</a></li>
+			                                    <li><a href="#" data-bs-original-title="" title="">Unlock User</a></li>
+			                                    <li><a href="#" data-bs-original-title="" title="">Forget Password</a></li>
+			                                    <li><a href="#" data-bs-original-title="" title="">Reset Password</a></li>
+			                                    <li><a href="#" data-bs-original-title="" title="">Maintenance</a></li>
 											</ul>
 										</div>
 									</div>
@@ -446,9 +446,9 @@
 												<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 											</div>
 											<ul class="submenu-content opensubmegamenu" style="display: none;">
-												<li><a href="http://localhost/NPRO/Laravel/Cuba/public/comingsoon" class="" data-bs-original-title="" title="">Coming Simple</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/comingsoon-bg-video" class="" data-bs-original-title="" title="">Coming with Bg video</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/comingsoon-bg-img" class="" data-bs-original-title="" title="">Coming with Bg Image</a></li>
+												<li><a href="#" class="" data-bs-original-title="" title="">Coming Simple</a></li>
+		                                       	<li><a href="#" class="" data-bs-original-title="" title="">Coming with Bg video</a></li>
+		                                       	<li><a href="#" class="" data-bs-original-title="" title="">Coming with Bg Image</a></li>
 											</ul>
 										</div>
 									</div>
@@ -459,12 +459,12 @@
 												<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 											</div>
 											<ul class="submenu-content opensubmegamenu" style="display: none;">
-												<li><a href="http://localhost/NPRO/Laravel/Cuba/public/basic-template" class="" data-bs-original-title="" title="">Basic Email</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/email-header" class="" data-bs-original-title="" title="">Basic With Header</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/template-email" class="" data-bs-original-title="" title="">Ecomerce Template</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/template-email-2" class="" data-bs-original-title="" title="">Email Template 2</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/ecommerce-templates" class="" data-bs-original-title="" title="">Ecommerce Email</a></li>
-		                                       <li><a href="http://localhost/NPRO/Laravel/Cuba/public/email-order-success" class="" data-bs-original-title="" title="">Order Success</a></li>
+												<li><a href="#" class="" data-bs-original-title="" title="">Basic Email</a></li>
+		                                       <li><a href="#" class="" data-bs-original-title="" title="">Basic With Header</a></li>
+		                                       <li><a href="#" class="" data-bs-original-title="" title="">Ecomerce Template</a></li>
+		                                       <li><a href="#" class="" data-bs-original-title="" title="">Email Template 2</a></li>
+		                                       <li><a href="#" class="" data-bs-original-title="" title="">Ecommerce Email</a></li>
+		                                       <li><a href="#" class="" data-bs-original-title="" title="">Order Success</a></li>
 											</ul>
 										</div>
 									</div>
@@ -483,11 +483,11 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/gallery" class="" data-bs-original-title="" title="">Gallery Grid</a></li>
-                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/gallery/gallery-with-description" class="" data-bs-original-title="" title="">Gallery Grid Desc</a></li>
-                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/gallery/gallery-masonry" class="" data-bs-original-title="" title="">Masonry Gallery</a></li>
-                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/gallery/masonry-gallery-with-disc" class="" data-bs-original-title="" title="">Masonry with Desc</a></li>
-                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/gallery/gallery-hover" class="" data-bs-original-title="" title="">Hover Effects</a></li>
+						<li><a href="#" class="" data-bs-original-title="" title="">Gallery Grid</a></li>
+                        <li><a href="#" class="" data-bs-original-title="" title="">Gallery Grid Desc</a></li>
+                        <li><a href="#" class="" data-bs-original-title="" title="">Masonry Gallery</a></li>
+                        <li><a href="#" class="" data-bs-original-title="" title="">Masonry with Desc</a></li>
+                        <li><a href="#" class="" data-bs-original-title="" title="">Hover Effects</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -495,21 +495,21 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/blog" class="" data-bs-original-title="" title="">Blog Details</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/blog/blog-single" class="" data-bs-original-title="" title="">Blog Single</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/blog/add-post" class="" data-bs-original-title="" title="">Add Post</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Blog Details</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Blog Single</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">Add Post</a></li>
 						</ul>
 					</li>
-					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="http://localhost/NPRO/Laravel/Cuba/public/faq" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12" y2="17"></line></svg><span>FAQ</span></a></li>
+					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12" y2="17"></line></svg><span>FAQ</span></a></li>
 					<li class="sidebar-list">
 						<a class="sidebar-link sidebar-title " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-package"><path d="M12.89 1.45l8 4A2 2 0 0 1 22 7.24v9.53a2 2 0 0 1-1.11 1.79l-8 4a2 2 0 0 1-1.79 0l-8-4a2 2 0 0 1-1.1-1.8V7.24a2 2 0 0 1 1.11-1.79l8-4a2 2 0 0 1 1.78 0z"></path><polyline points="2.32 6.16 12 11 21.68 6.16"></polyline><line x1="12" y1="22.76" x2="12" y2="11"></line><line x1="7" y1="3.5" x2="17" y2="8.5"></line></svg><span>Job Search</span>
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/job-search/job-cards-view" class="" data-bs-original-title="" title="">Cards view</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/job-search/job-list-view" class="" data-bs-original-title="" title="">List View</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/job-search/job-details" class="" data-bs-original-title="" title="">Job Details</a></li>
-		                    <li><a href="http://localhost/NPRO/Laravel/Cuba/public/job-search/job-apply" class="" data-bs-original-title="" title="">Apply</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Cards view</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">List View</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Job Details</a></li>
+		                    <li><a href="#" class="" data-bs-original-title="" title="">Apply</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -517,8 +517,8 @@
 							<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/learning/learning-list-view" class="" data-bs-original-title="" title="">Learning List</a></li>
-                     		<li><a href="http://localhost/NPRO/Laravel/Cuba/public/learning/learning-detailed" class="" data-bs-original-title="" title="">Detailed Course</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Learning List</a></li>
+                     		<li><a href="#" class="" data-bs-original-title="" title="">Detailed Course</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -526,8 +526,8 @@
 								<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;;">
-								<li><a href="http://localhost/NPRO/Laravel/Cuba/public/maps/map-js" class="" data-bs-original-title="" title="">Maps JS</a></li>
-		                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/maps/vector-map" class="" data-bs-original-title="" title="">Vector Maps</a></li>
+								<li><a href="#" class="" data-bs-original-title="" title="">Maps JS</a></li>
+		                        <li><a href="#" class="" data-bs-original-title="" title="">Vector Maps</a></li>
 						</ul>
 					</li>
 					<li class="sidebar-list">
@@ -535,14 +535,14 @@
 								<div class="according-menu"><i class="fa fa-angle-right"></i></div>
 						</a>
 						<ul class="sidebar-submenu" style="display: none;;">
-							<li><a href="http://localhost/NPRO/Laravel/Cuba/public/editors/summernote" class="" data-bs-original-title="" title="">Summer Note</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/editors/ckeditor" class="" data-bs-original-title="" title="">CK editor</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/editors/simple-mde" class="" data-bs-original-title="" title="">MDE editor</a></li>
-	                        <li><a href="http://localhost/NPRO/Laravel/Cuba/public/editors/ace-code-editor" class="" data-bs-original-title="" title="">ACE code editor</a></li>
+							<li><a href="#" class="" data-bs-original-title="" title="">Summer Note</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">CK editor</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">MDE editor</a></li>
+	                        <li><a href="#" class="" data-bs-original-title="" title="">ACE code editor</a></li>
 						</ul>
 					</li>
-					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="http://localhost/NPRO/Laravel/Cuba/public/knowledgebase" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sunrise"><path d="M17 18a5 5 0 0 0-10 0"></path><line x1="12" y1="2" x2="12" y2="9"></line><line x1="4.22" y1="10.22" x2="5.64" y2="11.64"></line><line x1="1" y1="18" x2="3" y2="18"></line><line x1="21" y1="18" x2="23" y2="18"></line><line x1="18.36" y1="11.64" x2="19.78" y2="10.22"></line><line x1="23" y1="22" x2="1" y2="22"></line><polyline points="8 6 12 2 16 6"></polyline></svg><span>Knowledgebase</span></a></li>
-					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="http://localhost/NPRO/Laravel/Cuba/public/support-ticket" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg><span>Support Ticket</span></a></li>
+					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sunrise"><path d="M17 18a5 5 0 0 0-10 0"></path><line x1="12" y1="2" x2="12" y2="9"></line><line x1="4.22" y1="10.22" x2="5.64" y2="11.64"></line><line x1="1" y1="18" x2="3" y2="18"></line><line x1="21" y1="18" x2="23" y2="18"></line><line x1="18.36" y1="11.64" x2="19.78" y2="10.22"></line><line x1="23" y1="22" x2="1" y2="22"></line><polyline points="8 6 12 2 16 6"></polyline></svg><span>Knowledgebase</span></a></li>
+					<li class="sidebar-list"><a class="sidebar-link sidebar-title link-nav " href="#" data-bs-original-title="" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg><span>Support Ticket</span></a></li>
 				</div></div></div></div><div class="simplebar-placeholder" style="width: auto; height: 2508px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: visible;"><div class="simplebar-scrollbar" style="height: 25px; transform: translate3d(0px, 0px, 0px); display: block;"></div></div></ul>
 			</div>
 			<div class="right-arrow" id="right-arrow"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></div>

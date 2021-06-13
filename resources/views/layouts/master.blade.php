@@ -46,6 +46,7 @@
         @include('layouts.master-layout.sidebar')
         @yield('contentFileManger')
         @yield('creatProject')
+        @yield('pageFAQ')
         <!-- Page Sidebar Ends-->
         
         

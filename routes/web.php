@@ -23,3 +23,9 @@ Route::view('/home' ,'layouts/master');
 Route::view('/sidebar' ,'layouts/master-layout.sidebar');
 
 Route::view('/creatProject' ,'layouts/projects.Project_Create');
+
+Route::view('/FAQ' ,'layouts/FAQ.FAQ');
+
+Route::view('/forget-password' ,'layouts/password.resetePass');
+
+Route::view('/login' ,'layouts/password.loginPage');
